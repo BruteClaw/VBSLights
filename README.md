@@ -8,6 +8,7 @@ Spec sheets on pertinant components
 Code for the Raspberry Pi in Python
 
 lightTest.py is a functional script to test the LEDs on device0
+
 MQTT_Test.py is a functional script to test your MQTT Broker setup
 
 MQTT_Lights.py has the framework built for a functional system.  Most animations are in place, and it will listen to
