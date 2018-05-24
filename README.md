@@ -11,7 +11,12 @@ lightTest.py is a functional script to test the LEDs on device0
 
 MQTT_Test.py is a functional script to test your MQTT Broker setup
 
-MQTT_Lights.py has the framework built for a functional system.  Most animations are in place, and it will listen to
-an MQTT broker for commands.  Not all commands are written yet.
+MQTT_Lights.py is the full code that I have implemented on the Raspberry Pi that is in control of the lights
+
+MQTT_Periodic_Test.py is a script that cycles through the commands of MQTT_Lights.py in order to stress test the configuration
+
+MQTT_GUI.py is the code that I have started writing on the touch screen Pi in order to control this across the network
+
+tkinter_test.py is som code that I was using to test the ability to make a GUI interface for the touchscreen
 
 Videos of the design process:  https://www.youtube.com/playlist?list=PLKgBsJoH7_7Tdjw1KCGC1FjwnGFgput7B
