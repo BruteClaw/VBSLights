@@ -15,8 +15,8 @@ MQTT_Lights.py is the full code that I have implemented on the Raspberry Pi that
 
 MQTT_Periodic_Test.py is a script that cycles through the commands of MQTT_Lights.py in order to stress test the configuration
 
-MQTT_GUI.py is the code that I have started writing on the touch screen Pi in order to control this across the network
+MQTT_GUI.py is the code on the touch screen Pi in order to control the lights across the network
 
-tkinter_test.py is som code that I was using to test the ability to make a GUI interface for the touchscreen
+tkinter_test.py is some code that I was using to test the ability to make a GUI interface for the touchscreen
 
 Videos of the design process:  https://www.youtube.com/playlist?list=PLKgBsJoH7_7Tdjw1KCGC1FjwnGFgput7B
