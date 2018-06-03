@@ -11,9 +11,8 @@ import subprocess
 #variables
 window = Tk()
 cmd = "No"
-#broker="192.168.201.8" #for at church
-broker="172.25.16.110" #for at home
-port=1883
+broker="x.x.x.x" #address for the MQTT Broker
+port=1883 #port on the MQTT Broker
 mixer.init()
 buttonFont = ("Verdana", 24) # Sets the font size of the buttons
 
